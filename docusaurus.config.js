@@ -9,7 +9,7 @@ const config = {
   title: "Bookings API",
   tagline: "Yeah, read the docs",
   url: "https://mrshanas.com",
-  baseUrl: "/",
+  baseUrl: "/h-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicons/favicon.ico",
