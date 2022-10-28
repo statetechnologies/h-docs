@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[525],{7574:(e,t,l)=>{l.r(t),l.d(t,{default:()=>c});var n=l(7294),u=l(215);function c(){return n.createElement(u.Z,null,n.createElement("h1",null,"My First Page"))}}}]);
